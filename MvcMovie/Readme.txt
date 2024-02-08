@@ -31,3 +31,6 @@ Part 8: In this part add a new field in databasea adding column for Rating.I got
 Part 9:This part is for adding validation while adding I got the compile erorr CS0234 And not able to understand 
 
 Date: 08-02-2024 
+
+
+
